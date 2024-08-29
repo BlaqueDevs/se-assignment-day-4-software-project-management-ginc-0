@@ -35,6 +35,9 @@ To ensure quality assurance in a software project, use methods such as clear req
 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope clarifies what is included and excluded from the project, helping to set clear objectives and avoid scope creep. A Work Breakdown Structure (WBS) breaks the project into smaller, manageable tasks, aiding in planning, scheduling, and resource management. It improves communication and cost estimation by providing a detailed, organized view of the project's deliverables and tasks.
+
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
