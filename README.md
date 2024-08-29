@@ -1,4 +1,4 @@
-I'llI'mok# SE_DAY4_Software-Project-Management
+weI'llI'mok# SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 
 Timely delivery in software projects is crucial for client satisfaction, project success, and market competitiveness. To ensure deadlines are met, project managers need to plan realistically, communicate effectively, manage tasks efficiently, mitigate risks, allocate resources strategically, and monitor progress closely. Agile methodologies can be particularly helpful in ensuring timely delivery through iterative development and frequent feedback.
@@ -100,3 +100,4 @@ The Point of Sale (POS) software market in Africa is experiencing growth as well
 
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding market trends helps you shape your software to better meet current demands and stand out from competitors. By keeping an eye on what’s emerging and changing, you can align your development with user needs, plan for future growth, and adapt to new technologies. This approach ensures your software remains relevant, appealing, and well-positioned in the market.
